@@ -9,7 +9,7 @@
   <p>Um gerador de senha, para ser utilizado nos sites e redes sociais do usuário, desenvolvido em JavaScript</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/password-generator/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
+    <a href="https://github.com/Doug-Silva/password-generator/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT"></a>
   </div><br>
 
   <!--Adicionar imagem/gif do projeto aqui-->
